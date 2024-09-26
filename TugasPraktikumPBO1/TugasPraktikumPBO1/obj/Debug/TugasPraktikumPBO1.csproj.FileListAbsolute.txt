@@ -1,0 +1,7 @@
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\bin\Debug\TugasPraktikumPBO1.exe.config
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\bin\Debug\TugasPraktikumPBO1.exe
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\bin\Debug\TugasPraktikumPBO1.pdb
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\obj\Debug\TugasPraktikumPBO1.csproj.AssemblyReference.cache
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\obj\Debug\TugasPraktikumPBO1.csproj.CoreCompileInputs.cache
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\obj\Debug\TugasPraktikumPBO1.exe
+C:\Users\mikoi\source\repos\TugasPraktikumPBO1\TugasPraktikumPBO1\obj\Debug\TugasPraktikumPBO1.pdb
